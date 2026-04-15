@@ -1,0 +1,17 @@
+1. While Loop(Entry control loop)
+-----------------
+Syntax:
+
+while(condition){
+    //loop body
+
+    //increment or decrement
+}
+//outside statements
+
+Example: print number from 1 to 10
+int i=1;
+while(i<=10){
+    IO.println(i);
+    i++;
+}
