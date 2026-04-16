@@ -1,5 +1,5 @@
 1. While Loop(Entry control loop)
------------------
+----------------------------------
 Syntax:
 
 while(condition){
@@ -15,3 +15,25 @@ while(i<=10){
     IO.println(i);
     i++;
 }
+-------------------------------------
+
+# Flow Control Statements
+1. if statement:
+Syntax:
+
+if(condition){
+    //if block statement
+}
+//outside statement
+
+2. if-else statement:
+Syntax:
+
+if(condition){
+    //if block statement
+}
+else{
+    //else block statement
+}
+//outside statement
+
