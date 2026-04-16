@@ -40,3 +40,24 @@ else{
 
 }
 ----------------------------------
+
+4. Nested if else:
+Syntax:
+
+if(condition){
+    if(condition){
+
+    }
+    else{
+
+    }
+}
+else{
+    if(condition){
+
+    }
+    else{
+        
+    }
+}
+-----------------------------------
