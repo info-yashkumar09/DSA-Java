@@ -8,11 +8,21 @@ Consider a list of all factors of n sorted in ascending order, return the kth fa
 
 public class kthFactorOfN {
     public static void main(String[] args) {
-        
+        IO.println(kthFactor(28, 4));
     }
 
     public static int kthFactor(int n, int k){
-        return n;
+        int i=1; int count=0;
+        while(i<=n){
+            if(n%i==0){
+                count++;
+                if(count==k){
+                    return i;
+                }
+            }
+            i++;
+        }
+        return -1;
     }
 
 }
