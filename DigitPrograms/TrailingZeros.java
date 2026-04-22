@@ -1,5 +1,3 @@
-package DigitPrograms;
-
 public class TrailingZeros {
     public static void main(String[] args) {
         IO.println(getTrailingZeros(7));
