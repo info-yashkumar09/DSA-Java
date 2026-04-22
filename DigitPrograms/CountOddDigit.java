@@ -1,4 +1,3 @@
-package DigitPrograms;
 
 public class CountOddDigit {
     public static void main(String[] args) {

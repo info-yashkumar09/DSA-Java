@@ -1,5 +1,3 @@
-package DigitPrograms;
-
 public class CheckPalindrome {
     public static void main(String[] args) {
         IO.println(isPalindrome(1331));

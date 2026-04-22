@@ -1,4 +1,3 @@
-package DigitPrograms;
 
 public class GetDigits {
     public static void main(String[] args) {

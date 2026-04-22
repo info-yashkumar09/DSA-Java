@@ -1,4 +1,3 @@
-package DigitPrograms;
 
 public class PrintExactNumber {
     public static void main(String[] args) {

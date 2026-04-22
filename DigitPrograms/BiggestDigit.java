@@ -1,4 +1,4 @@
-package DigitPrograms;
+
 
 public class BiggestDigit {
     public static void main(String[] args) {

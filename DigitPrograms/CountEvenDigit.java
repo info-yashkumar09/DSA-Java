@@ -1,4 +1,3 @@
-package DigitPrograms;
 
 public class CountEvenDigit {
     public static void main(String[] args) {
